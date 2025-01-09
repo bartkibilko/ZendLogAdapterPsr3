@@ -3,7 +3,7 @@
     "description": "PHP 8 compatible PSR-3 adapter for Zend_Log (ZF1-Future Framework)",
     "require": {
         "php": "^7.1 || ^8.1",
-        "shardj/zf1-future": "^1.21",
+        "mFuture/zf1-future": "*",
         "psr/log": "*"
     },
     "require-dev": {
